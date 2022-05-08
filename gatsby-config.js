@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `DDH`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `DDH`,
+      summary: `Hardcodeder. Feature conqueror. Selfie killer.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -99,9 +99,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
-                    }
-                  }
-                }
+                    DDH
               }
             `,
             output: "/rss.xml",
