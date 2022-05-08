@@ -3,7 +3,7 @@ module.exports = {
     title: `DDH`,
     author: {
       name: `DDH`,
-      summary: `Hardcodeder. Feature conqueror. Selfie killer.`,
+      summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
