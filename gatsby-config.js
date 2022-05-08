@@ -99,7 +99,9 @@ module.exports = {
                     frontmatter {
                       title
                       date
-                    DDH
+                    }
+                  }
+                }
               }
             `,
             output: "/rss.xml",
